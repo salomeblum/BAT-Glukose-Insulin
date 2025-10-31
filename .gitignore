@@ -1,0 +1,23 @@
+# MATLAB temporäre Dateien
+*.asv
+*.m~
+*.autosave
+
+# Simulink build/cache
+slprj/
+sccprj/
+*.slxc
+
+# Generierte C-Code-Ordner
+*_ert_rtw/
+*_grt_rtw/
+codegen/
+
+# Backup / Log
+*.bak
+*.log
+*.tmp
+
+# Betriebssystem
+.DS_Store
+Thumbs.db
