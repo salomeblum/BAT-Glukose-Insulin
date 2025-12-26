@@ -23,7 +23,7 @@ k9 =  1.08e-2/60; %[1/s] Flussrate des Insulins von Plasma --> Interstitium
 
 
 G_pl_th = 9; %[mmol/L] Schwellenwert Nierenausscheidung
-I_pl_b = 6.5; %[mU/L] --> entnommen aus der Literatur, Modell hat Drift oder irgendetwas Komisches!!
+I_pl_b = 6.5; %[mU/L] --> entnommen aus der Literatur
 
 tau_i = 31*60; %[s] Integrations-Zeitkonstante (Glukosekonzentration)
 tau_d = 3*60; %[s] Ableitungszeitkonstante (Glukosekonzentration)
