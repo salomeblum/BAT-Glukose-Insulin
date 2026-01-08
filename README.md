@@ -39,10 +39,16 @@ Enthält Python-basierte Implementierungen und Analysen:
 - **`f_solver*`**  
   Verschiedene Implementierungen numerischer Solver zur Integration des Modells
 
+- **`ukf_pred_upd*`**
+  Implementierungen von prediction/update-loops
+
 - **Jupyter Notebooks**  
   Notebooks zur:
   - Analyse der Sensordaten  
   - Durchführung von Zustands- und Parameterschätzungen
+
+- **kleinere Hilfsprogramme**
+  zum Maskieren und plotten von Daten
 
 ---
 
