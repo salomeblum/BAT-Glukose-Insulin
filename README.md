@@ -12,7 +12,7 @@ Enthält die im Rahmen der Arbeit verwendeten Mess- und Ereignisdaten:
   Datei mit kontinuierlichen Glukosemessungen im Zeitraum vom **04.12.2025 bis 14.12.2025**.  
   Vollständige Messtage (00:00–23:59) liegen für den Zeitraum **05.12.2025 bis 13.12.2025** vor.
 
-- **clean_data.csv**
+- **clean_data.csv**  
   Datei mit bereinigten Daten, bei denen Zeilen mit NaN-Einträgen (Signal-Verlust des Sensors) entfernt wurden und Spaltenüberschriften angepasst wurden.
 
 - **events.csv**  
@@ -39,7 +39,7 @@ Enthält Python-basierte Implementierungen und Analysen:
 - **`f_solver*`**  
   Verschiedene Implementierungen numerischer Solver zur Integration des Modells
 
-- **`ukf_pred_upd*`**
+- **`ukf_pred_upd*`**  
   Implementierungen von prediction/update-loops
 
 - **Jupyter Notebooks**  
@@ -47,7 +47,7 @@ Enthält Python-basierte Implementierungen und Analysen:
   - Analyse der Sensordaten  
   - Durchführung von Zustands- und Parameterschätzungen
 
-- **kleinere Hilfsprogramme**
+- **kleinere Hilfsprogramme**  
   zum Maskieren und plotten von Daten
 
 ---
