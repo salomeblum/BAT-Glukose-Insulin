@@ -28,7 +28,7 @@ def plot_ukf_2(cgm_data:np.ndarray, upd: np.ndarray, pred: np.ndarray, time: np.
     ax[1].legend()
 
 
-    fig, ax = plt.subplots(4,1, figsize = (12, 12))
+    fig, ax = plt.subplots(4,1, figsize = (6, 14))
     
     #Magen/Darm: Predicted - Updated
     ax[0].plot(time, upd[:,0], "o", mfc="none", label = "M_gut updated")
