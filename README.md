@@ -42,6 +42,3 @@ Enthält Python-basierte Implementierungen und Analysen:
 
 ---
 
-## Hinweise
-- Die Daten dienen primär Forschungs- und Entwicklungszwecken.
-- Eine Weiterverwendung sollte unter Berücksichtigung des jeweiligen Kontextes und der Modellannahmen erfolgen.
