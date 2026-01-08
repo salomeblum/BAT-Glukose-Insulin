@@ -8,12 +8,16 @@ Die bereitgestellten Daten und Implementierungen können weiterverwendet werden.
 ### Sensordata
 Enthält die im Rahmen der Arbeit verwendeten Mess- und Ereignisdaten:
 
-- **CGM-Messdaten**  
+- **CGM.csv**  
   Datei mit kontinuierlichen Glukosemessungen im Zeitraum vom **04.12.2025 bis 14.12.2025**.  
   Vollständige Messtage (00:00–23:59) liegen für den Zeitraum **05.12.2025 bis 13.12.2025** vor.
 
-- **Event-Daten**  
+- **clean_data.csv**
+  Datei mit bereinigten Daten, bei denen Zeilen mit NaN-Einträgen (Signal-Verlust des Sensors) entfernt wurden und Spaltenüberschriften angepasst wurden.
+
+- **events.csv**  
   Datei mit zugehörigen Ereignissen (Mahlzeiten und körperliche Aktivitäten) für den Zeitraum **05.12.2025 bis 13.12.2025**.
+
 
 ---
 
